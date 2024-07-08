@@ -1,6 +1,6 @@
 # Neural Network Training Algorithms
 
-This repository contains implementations of neural network training algorithms, including a genetic algorithm-based approach and a gradient descent-based approach. The repository features a custom `NeuralNetwork` class trained using a genetic algorithm and an `MLP3` class trained using gradient descent.
+This repository contains implementations of neural network training algorithms, including a `genetic algorithm-based` approach and a `gradient descent-based` approach. The repository features a custom NeuralNetwork class trained using a genetic algorithm and an MLP3 class trained using gradient descent.
 
 ## Table of Contents
 
