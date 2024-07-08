@@ -11,8 +11,8 @@ This repository contains implementations of neural network training algorithms, 
   - [MLP3](#mlp3)
 - [Function for Training Genetic Algorithm (GA)](#function-for-training-genetic-algorithm-(ga))
 - [Comparison of Algorithms](#comparison-of-algorithms)
-    -[Error curve for gradient descent](#error-curve-for-gradient-descent)
-    -[Error curve for Genetic Algorithm](#error-curve-for-genetic-algorithm)
+    - [Error curve for gradient descent](#error-curve-for-gradient-descent)
+    - [Error curve for Genetic Algorithm](#error-curve-for-genetic-algorithm)
 - [Contributing](#contributing)
 - [License](#license)
 
